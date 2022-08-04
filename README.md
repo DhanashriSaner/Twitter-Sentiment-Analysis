@@ -13,9 +13,9 @@ ids: Unique id of the tweet<br>
 date: the date of the tweet<br>
 flag: It refers to the query. If no such query exists then it is NO QUERY.<br>
 user: It refers to the name of the user that tweeted<br>
-text: It refers to the text of the tweet<br>
+text: It refers to the text of the tweet<br><br>
 
-Dataset used from below source : <br>
+<h3>Dataset used </h3>: <br>
 <a href = "https://www.kaggle.com/datasets/kazanova/sentiment140">Sentiment140 dataset with 1.6 million tweets</a>
 
 <h2>Project Pipeline</h2>
